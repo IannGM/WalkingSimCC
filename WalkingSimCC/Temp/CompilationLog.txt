@@ -1,4 +1,34 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-12b4dcf7fe8a44b32a07e1261a2ca8d6
+# Starting compiling UnityEngine.UI.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e95b8ff0d417c4418885feb944677152
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a3d2dd07453b443dd81166d4372f0fe1
+# Starting compiling UnityEditor.UI.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4230f02c658c647daa14477e834ba5c8
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-818a04557908d4501a05c998e81c20cf
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-53d8b1dbcb5f94d5eb1719b0307ded22
+# Starting compiling Unity.Timeline.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3c91c566f7a9441d3b92a6da0419f58b
+# Starting compiling Unity.TextMeshPro.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e88ff4c76e1214be1a3a5d7024e6a873
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-53c92d78d9ea1499cb499a7d92e4b894
+# Starting compiling Unity.InputSystem.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-abc179265c2f24e8c8300cc4f36fe449
+# Starting compiling Unity.Rider.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f44efcea8f4564bb29c26cf2885dd558
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bd63169ec80884918b8b4f1dd891aadd
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-aab530da5056e47c4819b9df7f927fff
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-520684a364e3f4adf90d3fec9f0f42b2
+# Starting compiling Cinemachine.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ecfaf8451578943bfb89ff492041ffd4
+# Starting compiling com.unity.cinemachine.editor.dll
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-89abb29a5754b441b99bdf523d47c577
 # Starting compiling Assembly-CSharp.dll
-/Users/starschumi/Desktop/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c8f16a62218a94c14b15180a7fb2e39c
-# Starting compiling Assembly-CSharp-Editor.dll
-/Users/starschumi/Desktop/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0f59dc0116c6e44e999dd93993c68ea6
+/Users/zahramansoor/Documents/CLASSES SPRING 2021/Dimensions/Unity/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0bf52eb60ecc14f668424a2ee833eff3
